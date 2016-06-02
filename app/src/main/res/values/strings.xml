@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">GMD_Weather</string>
+    <string name="app_name">GMD Weather</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="humidity">Kelembapan</string>
+    <string name="error_get_current_weather">Maaf, terjadi error untuk memperbarui info cuaca</string>
+    <string name="wind_speed">Angin</string>
+    <string name="wind_direction">Arah</string>
+    <string name="pressure">Tekanan</string>
+    <string name="updating_weather">Updating cuaca...</string>
+    <string name="advance_information_hint">Sentuh kotak di bawah untuk info lengkap</string>
+    <string name="menu_search">Search</string>
+    <string name="no_results_for_that_location">Tidak bisa mendapatkan info cuaca dari lokasi</string>
+    <string name="home_loading_first_data">Sedang melepas balon cuaca ke udara</string>
+    <string name="please_enter_a_location">Silahkan isi lokasi dengan benar</string>
 </resources>

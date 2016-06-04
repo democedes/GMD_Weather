@@ -10,4 +10,5 @@
 
     <color name="toolbarTransparent">#00FFFFFF</color>
     <color name="cardTransparent">#80000000</color>
+    <color name="grey">#424242</color>
 </resources>

@@ -5,7 +5,7 @@
     android:id="@+id/background"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/view1"
+    android:background="@color/colorPrimary"
     android:orientation="vertical">
 
     <android.support.v7.widget.Toolbar
@@ -125,6 +125,6 @@
             android:padding="@dimen/large_space"
             android:text="@string/home_loading_first_data"
             android:textColor="@color/white"
-            android:textSize="@dimen/text_material_header"/>
+            android:textSize="@dimen/text_material_subheading"/>
     </android.support.design.widget.CoordinatorLayout>
 </LinearLayout>
